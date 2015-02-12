@@ -19,7 +19,7 @@ build
 
 # Node.js
 # ignore for now
-# node_modules
+node_modules
 
 # Xcode	
 *.mode1v3
