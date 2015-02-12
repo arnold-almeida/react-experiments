@@ -19,7 +19,8 @@ build
 
 # Node.js
 # ignore for now
-node_modules
+node_modules/*
+!node_modules/react-uikit
 
 # Xcode	
 *.mode1v3
