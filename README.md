@@ -11,6 +11,9 @@ Examples based off
 
  - http://iamralpht.github.io/constraints/
 
+Read :
+
+ - http://www.jramsay.com.au/simplex-solver-using-cassowary-js/
 
 Credits
 ====================
